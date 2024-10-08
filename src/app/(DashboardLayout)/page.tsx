@@ -23,7 +23,7 @@ const Dashboard = () => {
           <ProductPerformance />
         </Grid>
         <Grid item xs={12} lg={12}>
-          <BlogCard />
+          {/* <BlogCard /> */}
         </Grid>
       </Grid>
     </Box>
